@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v56ZA9lXX9CzWqxVTNEahUms74DVL9EscwkGKmOHhyYjHzeNYf7PS90G6bEecZPFTpTGct4T0KbJahYP25o0iA==",
+  "success": true,
+  "projectFilePath": "E:\\Dot_Net_Solutions\\Step-By-Step Dimensions\\Step-By-Step Dungeon\\Step-By-Step Dungeon\\Step-By-Step Dungeon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvozn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
